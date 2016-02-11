@@ -62,7 +62,6 @@ li{
 	h1{
 		margin-bottom: 0.2em;
 		line-height: 1.1;
-		// font-family: 'colt-soft', Georgia, serif;
 		font-weight: 700;
 		text-transform: uppercase;
 		letter-spacing: 0.3em;
@@ -71,7 +70,7 @@ li{
 
 	p{
 		font-size: 2em;
-		max-width: 600px;
+
 		&+p{
 			margin-top: 1em;
 		}
